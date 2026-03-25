@@ -1,0 +1,11 @@
+{
+  "id": "print-selection",
+  "name": "Print Selection",
+  "version": "0.2.0",
+  "minAppVersion": "0.12.0",
+  "description": "Exportiert markierten Text als druckbare HTML-Datei",
+  "author": "Elisa Demonki",
+  "authorUrl": "",
+  "isDesktopOnly": true,
+  "main": "main.js"
+}
