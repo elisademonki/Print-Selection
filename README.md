@@ -26,4 +26,4 @@ Ein Obsidian-Plugin zum Exportieren markierter Texte als druckbare HTML-Datei. D
 
 ## Installation
 
-Plugin-Dateien in den Community-Plugin-Ordner kopieren und das Plugin in Obsidian aktivieren. Das Plugin ist nur für Desktop gedacht. fileciteturn0file0
+Plugin-Dateien in den Community-Plugin-Ordner kopieren und das Plugin in Obsidian aktivieren. Das Plugin ist nur für Desktop gedacht.
